@@ -2,13 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zwsjump.github.io/</id>
     <title>空山新雨后 ，天气晚来秋</title>
-    <updated>2019-12-19T16:28:43.851Z</updated>
+    <updated>2019-12-20T15:25:55.833Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://zwsjump.github.io/"/>
     <link rel="self" href="https://zwsjump.github.io//atom.xml"/>
     <logo>https://zwsjump.github.io//images/avatar.png</logo>
     <icon>https://zwsjump.github.io//favicon.ico</icon>
     <rights>All rights reserved 2019, 空山新雨后 ，天气晚来秋</rights>
+    <entry>
+        <title type="html"><![CDATA[Quixel Mixer快捷键]]></title>
+        <id>https://zwsjump.github.io//post/quixel-mixer-kuai-jie-jian</id>
+        <link href="https://zwsjump.github.io//post/quixel-mixer-kuai-jie-jian">
+        </link>
+        <updated>2019-12-20T15:25:30.000Z</updated>
+        <content type="html"><![CDATA[<p><strong>Quixel Mixer快捷键</strong></p>
+<p>Ctrl / Cmd + N - 新混音</p>
+<p>Ctrl / Cmd + O - 打开混音</p>
+<p>Ctrl / Cmd + S - 保存混音</p>
+<p>Ctrl / Cmd + Shift + S - 将混音保存为</p>
+<p>Ctrl / Cmd + K - 首选项</p>
+<p>Ctrl / Cmd + D - 复制图层</p>
+<p>Alt +单击图层 - 切换图层剪裁</p>
+<p>Ctrl / Cmd + E - 快速导出</p>
+<p>V - 视口选项卡</p>
+<p>L - 本地库选项卡</p>
+<p>O - 在线图书馆选项卡</p>
+<p>空格键 - 切换UI</p>
+<p>鼠标中键 - 将样本与基础匹配</p>
+<p>按住Ctrl / Cmd - 反转位移方向</p>
+<p>Ctrl / Cmd + Z - 撤消绘画操作</p>
+<p>Ctrl / Cmd + Y - 重做绘画动作</p>
+<p>Shift + S + Drag - View-Aligned Stroke</p>
+<p>混音器视口控件：</p>
+<p>鼠标中键+拖动 - 平移场景</p>
+<p>Alt +左键单击+拖动 - 旋转场景</p>
+<p>Alt +右键单击+向上/向下拖动 - 缩小/缩小场景</p>
+<p>向上/向下滚动 - 放大/缩小场景</p>
+<p>向上/向下箭头 - 循环HDRI</p>
+<p>Shift +右键单击+拖动 - 旋转照明</p>
+<p>Shift +左键单击+拖动 - 地面对齐笔划</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[c++与dart的语法小注]]></title>
         <id>https://zwsjump.github.io//post/cyu-dart-de-yu-fa-xiao-zhu</id>
