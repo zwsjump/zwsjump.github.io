@@ -2,13 +2,163 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zwsjump.github.io/</id>
     <title>空山新雨后 ，天气晚来秋</title>
-    <updated>2019-12-20T15:25:55.833Z</updated>
+    <updated>2019-12-21T04:09:31.045Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://zwsjump.github.io/"/>
     <link rel="self" href="https://zwsjump.github.io//atom.xml"/>
     <logo>https://zwsjump.github.io//images/avatar.png</logo>
     <icon>https://zwsjump.github.io//favicon.ico</icon>
     <rights>All rights reserved 2019, 空山新雨后 ，天气晚来秋</rights>
+    <entry>
+        <title type="html"><![CDATA[虚幻4编辑界面的快捷键]]></title>
+        <id>https://zwsjump.github.io//post/xu-huan-4-bian-ji-jie-mian-de-kuai-jie-jian</id>
+        <link href="https://zwsjump.github.io//post/xu-huan-4-bian-ji-jie-mian-de-kuai-jie-jian">
+        </link>
+        <updated>2019-12-21T04:08:52.000Z</updated>
+        <content type="html"><![CDATA[<table>
+<thead>
+<tr>
+<th>按键</th>
+<th>动作</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>空格</td>
+<td>更改编辑方式，旋转，缩放，平移</td>
+</tr>
+<tr>
+<td>鼠标左键</td>
+<td>选择actor</td>
+</tr>
+<tr>
+<td>鼠标左键+拖动</td>
+<td>前后移动和左右旋转摄像头</td>
+</tr>
+<tr>
+<td>鼠标右键</td>
+<td>选择actor并打开右键菜单</td>
+</tr>
+<tr>
+<td>鼠标右键+拖动</td>
+<td>旋转摄像头方向</td>
+</tr>
+<tr>
+<td>鼠标左键+鼠标右键+拖动</td>
+<td>摄像头上下左右移动</td>
+</tr>
+<tr>
+<td>鼠标中键+拖动</td>
+<td>摄像头上下左右移动</td>
+</tr>
+<tr>
+<td>滑轮向上</td>
+<td>摄像机向前移动</td>
+</tr>
+<tr>
+<td>滑轮向下</td>
+<td>摄像机向后移动</td>
+</tr>
+<tr>
+<td>F</td>
+<td>聚焦选中的actor</td>
+</tr>
+<tr>
+<td>箭头方向键</td>
+<td>摄像机前后左右移动</td>
+</tr>
+<tr>
+<td>W</td>
+<td>选中平移工具</td>
+</tr>
+<tr>
+<td>E</td>
+<td>选中旋转工具</td>
+</tr>
+<tr>
+<td>R</td>
+<td>选中缩放工具</td>
+</tr>
+<tr>
+<td>W+任何鼠标按键</td>
+<td>摄像机向前移动</td>
+</tr>
+<tr>
+<td>S+任何鼠标按键</td>
+<td>摄像机向后移动</td>
+</tr>
+<tr>
+<td>A+任何鼠标按键</td>
+<td>摄像机向左移动</td>
+</tr>
+<tr>
+<td>D+任何鼠标按键</td>
+<td>摄像机向右移动</td>
+</tr>
+<tr>
+<td>E+任何鼠标按键</td>
+<td>摄相机向上移动</td>
+</tr>
+<tr>
+<td>Q+任何鼠标按键</td>
+<td>摄像机向下移动</td>
+</tr>
+<tr>
+<td>Z+任何鼠标按键</td>
+<td>增加视野（鼠标释放后会恢复原状）</td>
+</tr>
+<tr>
+<td>C+任何鼠标按键</td>
+<td>缩小视野（鼠标释放后会恢复原状）</td>
+</tr>
+<tr>
+<td>Ctrl+S</td>
+<td>保存场景</td>
+</tr>
+<tr>
+<td>Ctrl+N</td>
+<td>创建新场景</td>
+</tr>
+<tr>
+<td>Ctrl+O</td>
+<td>打开一个已有的场景</td>
+</tr>
+<tr>
+<td>Ctrl+Alt+S</td>
+<td>另存为新场景</td>
+</tr>
+<tr>
+<td>Ctrl+E</td>
+<td>编辑物体</td>
+</tr>
+<tr>
+<td>Alt+鼠标左键+拖动</td>
+<td>复制当前选中的actor</td>
+</tr>
+<tr>
+<td>Alt+鼠标右键+拖动</td>
+<td>摄像机前后移动</td>
+</tr>
+<tr>
+<td>Alt+P</td>
+<td>进入Play预览模式</td>
+</tr>
+<tr>
+<td>Esc</td>
+<td>退出预览模式</td>
+</tr>
+<tr>
+<td>F11</td>
+<td>进入仿真模式</td>
+</tr>
+<tr>
+<td>Shift+S</td>
+<td>取消选择物体</td>
+</tr>
+</tbody>
+</table>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Quixel Mixer快捷键]]></title>
         <id>https://zwsjump.github.io//post/quixel-mixer-kuai-jie-jian</id>
